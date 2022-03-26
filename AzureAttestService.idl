@@ -1,0 +1,15 @@
+[
+	uuid(78224520-4978-4616-8075-3d514ad9896f),
+	version(1.0),
+]
+interface DefaultIfName
+{
+
+	long Proc0(
+		[in]handle_t arg_0,
+		[in][string] wchar_t* arg_1,
+		[in][unique][size_is(arg_3)]char* arg_2,
+		[in]long arg_3,
+		[out][ref][string][size_is(, *arg_5)] wchar_t** arg_4,
+		[out]long* arg_5);
+}
