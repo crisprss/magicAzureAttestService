@@ -6,7 +6,7 @@
 ```
 magicAzureAttestService.exe -i -c \[cmd\]
 ```
-![](https://md.buptmerak.cn/uploads/upload_3725ac4ed634f71fe42801729de9c701.png)
+![](https://md.buptmerak.cn/uploads/upload_e0c1d1a1d632619bed35252be314c690.png)
 
 # 思路
 主要是针对 SQL Server 2019的特定服务magicAzureAttestService
